@@ -2,7 +2,7 @@
 <h3 align="center">Backend-focused MERN Developer | ECE Undergraduate</h3>
 
 <p align="center">
-I enjoy building scalable backend systems, clean REST APIs, and learning how real-world software is designed.
+I enjoy building scalable backend systems, clean REST APIs, and solving data structure & algorithmic problems to strengthen my fundamentals.
 </p>
 
 ---
@@ -11,7 +11,7 @@ I enjoy building scalable backend systems, clean REST APIs, and learning how rea
 
 - 🎓 Electronics & Communication Engineering undergraduate  
 - 🔧 Backend-focused developer (Node.js, Express, MongoDB)  
-- 🧠 Actively learning backend architecture & system design  
+- 🧠 Strong foundation in Data Structures & Algorithms  
 - 🚀 Currently building **StudyHive** – a collaborative learning backend  
 - 🎯 Goal: Become a Full Stack / MERN Developer  
 
@@ -20,6 +20,7 @@ I enjoy building scalable backend systems, clean REST APIs, and learning how rea
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-mandal-2438a5368)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Adi-1205/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adi._._.69)
 
 ---
@@ -40,6 +41,25 @@ I enjoy building scalable backend systems, clean REST APIs, and learning how rea
 ### Frontend (Basic)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🧠 Data Structures & Algorithms
+
+- ✅ **500+ problems solved on LeetCode**
+- 💡 Strong command over:
+  - Arrays & Strings  
+  - Linked Lists  
+  - Stacks & Queues  
+  - Trees & Binary Search Trees  
+  - Graphs (BFS / DFS)  
+  - Recursion & Backtracking  
+  - Greedy Algorithms  
+  - Dynamic Programming  
+- 🛠️ Primary language for DSA: **C++**
+
+🔗 **LeetCode Profile:**  
+👉 https://leetcode.com/u/Adi-1205/
 
 ---
 
@@ -70,6 +90,7 @@ A scalable RESTful API for collaborative learning and study group management.
 ## 🧩 Development Philosophy
 
 - Focus on fundamentals before frameworks  
+- Strong DSA + strong backend = scalable systems  
 - Build fewer but meaningful projects  
 - Write clean, readable, and maintainable code  
 - Improve consistently, not overnight  

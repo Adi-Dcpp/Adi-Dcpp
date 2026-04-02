@@ -17,8 +17,8 @@ I am Aditya Mandal, an aspiring Software Engineer focused on scalable backend sy
 ## 📊 Dev Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adi-Dcpp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi-Dcpp&theme=tokyonight&hide_border=true" alt="GitHub streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adi-Dcpp&theme=tokyonight" alt="GitHub stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Adi-Dcpp&theme=tokyonight&hide_border=true" alt="GitHub streak" width="48%" />
 </p>
 
 <p align="center">
@@ -26,13 +26,13 @@ I am Aditya Mandal, an aspiring Software Engineer focused on scalable backend sy
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-Dcpp&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adi-Dcpp&theme=tokyonight" alt="Repos per language" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adi-Dcpp&theme=tokyonight" alt="Most commit language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adi-Dcpp&theme=tokyonight&utcOffset=5.5" alt="Productive time" width="32%" />
 </p>
 
 <p align="center">
-  <img src="https://leetcode.card.workers.dev/Adi-1205?theme=dark&font=baloo&extension=activity" alt="LeetCode card" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/Adi-1205?theme=dark&font=Baloo" alt="LeetCode card" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adi-Dcpp&theme=tokyonight" alt="Profile details" width="48%" />
 </p>
 
@@ -98,5 +98,5 @@ I am Aditya Mandal, an aspiring Software Engineer focused on scalable backend sy
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Adi-Dcpp&icon=0&color=0" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Adi-Dcpp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>

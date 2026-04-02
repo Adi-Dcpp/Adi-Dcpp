@@ -86,7 +86,7 @@ I am Aditya Mandal, an aspiring Software Engineer focused on scalable backend sy
         <li>Behavior profiling for anomaly detection</li>
         <li>Dashboard UI with alerts, simulator, and message scanner</li>
       </ul>
-      <p><b>Stack:</b> React • Tailwind • Node.js • Express.js • MongoDB • Google Gemini API</p>
+      <p><b>Stack:</b> React • Tailwind • Node.js • Express.js • MongoDB • Groq API</p>
     </td>
   </tr>
   <tr>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Adi Mandal</h1>
+<h1>🐼Adi</h1>
 <h3>Backend-focused MERN Developer</h3>
 
 <a href="https://linkedin.com/in/aditya-mandal-2438a5368"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -12,25 +12,23 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adi-Dcpp/Adi-Dcpp/main/metrics.base.svg" alt="metrics base" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adi-Dcpp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi-Dcpp&theme=tokyonight&hide_border=true" alt="streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adi-Dcpp/Adi-Dcpp/main/metrics.calendar.svg" alt="metrics calendar" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adi-Dcpp&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="96%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adi-Dcpp/Adi-Dcpp/main/metrics.languages.svg" alt="metrics languages" width="48%" />
-  <img src="https://raw.githubusercontent.com/Adi-Dcpp/Adi-Dcpp/main/metrics.activity.svg" alt="metrics activity" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-Dcpp&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adi-Dcpp&theme=tokyonight" alt="repos per language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adi-Dcpp&theme=tokyonight" alt="most commit language" width="32%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adi-Dcpp/Adi-Dcpp/main/metrics.habits.svg" alt="metrics habits" width="48%" />
-  <img src="https://raw.githubusercontent.com/Adi-Dcpp/Adi-Dcpp/main/metrics.leetcode.svg" alt="metrics leetcode" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adi-Dcpp/Adi-Dcpp/main/metrics.stargazers.svg" alt="metrics stargazers" width="95%" />
+  <img src="https://leetcode.card.workers.dev/Adi-1205?theme=dark&font=baloo&extension=activity" alt="leetcode" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adi-Dcpp&theme=tokyonight" alt="profile details" width="48%" />
 </p>
 
 ---
@@ -52,5 +50,5 @@
 ---
 
 <div align="center">
-  <sub>Built with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> • auto-refresh via GitHub Actions</sub>
+  <sub>🧠 DSA • ⚙️ Backend • 🚀 Build fast, clean, production-ready systems</sub>
 </div>

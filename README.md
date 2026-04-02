@@ -2,7 +2,7 @@
 <h3 align="center">Backend-focused MERN Developer | ECE Undergraduate at NIT Mizoram</h3>
 
 <p align="center">
-I am Aditya Mandal, an aspiring Software Engineer focused on scalable backend systems, clean APIs, and strong DSA fundamentals in C++.
+I am Aditya Mandal, an aspiring Software Engineer focused on scalable backend systems, clean APIs, strong DSA fundamentals in C++, and hackathon-ready product building.
 </p>
 
 <p align="center">
@@ -60,16 +60,58 @@ I am Aditya Mandal, an aspiring Software Engineer focused on scalable backend sy
 
 ## 🚀 Featured Projects
 
-### 📚 StudyHive - Backend
-- Production-grade REST API for collaborative learning and academic management
-- JWT authentication, role-based access control, and modular backend architecture
-- Features: study groups, learning goals, assignments, submissions, and resource sharing
-- Stack: Node.js, Express.js, MongoDB, Mongoose ODM, JWT
-
-### 🌍 Country Explorer
-- Search and explore countries with rich details
-- Displays population, borders, map, and related visuals
-- Built to strengthen JavaScript, DOM, API integration, HTML5, and CSS
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>📚 StudyHive - Backend</h3>
+      <p>
+        A full-stack collaborative learning platform built with a modern MERN-style architecture.
+      </p>
+      <ul>
+        <li>JWT authentication with role-based authorization</li>
+        <li>Admin, Mentor, and Learner workflows</li>
+        <li>Study groups, learning goals, assignments, and submissions</li>
+        <li>MongoDB + MVC + modular REST API design</li>
+      </ul>
+      <p><b>Stack:</b> Node.js • Express.js • MongoDB • Mongoose ODM • JWT</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🛡️ FinShield — Hackathon Project</h3>
+      <p>
+        An AI-powered fintech security system that flags risky transactions and fraud/phishing messages in real time.
+      </p>
+      <ul>
+        <li>Transaction Risk Engine with score, factors, and decision</li>
+        <li>Message Fraud Detector using Gemini-style AI classification</li>
+        <li>Behavior profiling for anomaly detection</li>
+        <li>Dashboard UI with alerts, simulator, and message scanner</li>
+      </ul>
+      <p><b>Stack:</b> React • Tailwind • Node.js • Express.js • MongoDB • Google Gemini API</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🌍 Country Explorer</h3>
+      <p>
+        A clean web app to explore country data with search, borders, maps, and visuals.
+      </p>
+      <ul>
+        <li>API integration and DOM-driven UI</li>
+        <li>Country details, population, and related images</li>
+        <li>Frontend practice with HTML5, CSS, and JavaScript</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>⚡ What I Build</h3>
+      <ul>
+        <li>Backend-first MERN applications</li>
+        <li>API-focused products with clean architecture</li>
+        <li>Hackathon MVPs that are fast, understandable, and demo-ready</li>
+        <li>Systems that balance reliability with polish</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -83,8 +125,9 @@ I am Aditya Mandal, an aspiring Software Engineer focused on scalable backend sy
 
 ## 🏁 Hackathons & Competitions
 
+- Hackathon-driven builder with a focus on fast, polished, demo-ready solutions
+- FinShield was designed as a 2-day MVP with clear impact, speed, and usability
 - Active in coding contests and time-bound problem-solving challenges
-- Building hackathon-ready backend systems with clean API architecture
 - 2nd Prize in Debate Competition at a college fest
 
 ---
@@ -94,6 +137,7 @@ I am Aditya Mandal, an aspiring Software Engineer focused on scalable backend sy
 - B.Tech in Electronics and Communication Engineering, NIT Mizoram
 - Backend-first MERN developer
 - Goal: become a high-impact Full Stack / MERN developer
+- Build style: minimal, scalable, and visually clear
 
 ---
 

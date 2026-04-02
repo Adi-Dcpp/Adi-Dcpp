@@ -1,110 +1,56 @@
-<h1 align="center">Hi 👋, I'm Adi</h1>
-<h3 align="center">Backend-focused MERN Developer | ECE Undergraduate</h3>
+<div align="center">
+
+<h1>Adi Mandal</h1>
+<h3>Backend-focused MERN Developer</h3>
+
+<a href="https://linkedin.com/in/aditya-mandal-2438a5368"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/Adi-1205/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://github.com/Adi-Dcpp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+</div>
+
+---
 
 <p align="center">
-I enjoy building scalable backend systems, clean REST APIs, and solving data structure & algorithmic problems to strengthen my fundamentals.
+  <img src="https://raw.githubusercontent.com/Adi-Dcpp/Adi-Dcpp/main/metrics.base.svg" alt="metrics base" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adi-Dcpp/Adi-Dcpp/main/metrics.calendar.svg" alt="metrics calendar" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adi-Dcpp/Adi-Dcpp/main/metrics.languages.svg" alt="metrics languages" width="48%" />
+  <img src="https://raw.githubusercontent.com/Adi-Dcpp/Adi-Dcpp/main/metrics.activity.svg" alt="metrics activity" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adi-Dcpp/Adi-Dcpp/main/metrics.habits.svg" alt="metrics habits" width="48%" />
+  <img src="https://raw.githubusercontent.com/Adi-Dcpp/Adi-Dcpp/main/metrics.leetcode.svg" alt="metrics leetcode" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adi-Dcpp/Adi-Dcpp/main/metrics.stargazers.svg" alt="metrics stargazers" width="95%" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-- 🎓 Electronics & Communication Engineering undergraduate  
-- 🔧 Backend-focused developer (Node.js, Express, MongoDB)  
-- 🧠 Strong foundation in Data Structures & Algorithms  
-- 🚀 Currently building **StudyHive** – a collaborative learning backend  
-- 🎯 Goal: Become a Full Stack / MERN Developer  
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-mandal-2438a5368)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Adi-1205/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adi._._.69)
+</div>
 
 ---
 
-## 💻 Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Frontend (Basic)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## 🧠 Data Structures & Algorithms
-
-- ✅ **500+ problems solved on LeetCode**
-- 💡 Strong command over:
-  - Arrays & Strings  
-  - Linked Lists  
-  - Stacks & Queues  
-  - Trees & Binary Search Trees  
-  - Graphs (BFS / DFS)  
-  - Recursion & Backtracking  
-  - Greedy Algorithms  
-  - Dynamic Programming  
-- 🛠️ Primary language for DSA: **C++**
-
-🔗 **LeetCode Profile:**  
-👉 https://leetcode.com/u/Adi-1205/
-
----
-
-## 🚧 Current Projects
-
-### 📚 StudyHive Backend
-A scalable RESTful API for collaborative learning and study group management.
-
-**Key Features:**
-- JWT authentication with refresh tokens  
-- Role-based access control (Admin, Mentor, Learner)  
-- Study groups, learning goals, assignments & submissions  
-- Secure file uploads and resource sharing  
-- Clean, frontend-ready REST API design  
-
----
-
-## 📖 Currently Learning
-
-- Backend architecture & best practices  
-- Authentication & authorization flows  
-- MongoDB data modeling  
-- REST API design  
-- Preparing for full MERN stack development  
-
----
-
-## 🧩 Development Philosophy
-
-- Focus on fundamentals before frameworks  
-- Strong DSA + strong backend = scalable systems  
-- Build fewer but meaningful projects  
-- Write clean, readable, and maintainable code  
-- Improve consistently, not overnight  
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Adi-Dcpp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Adi-Dcpp&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-Dcpp&theme=dark&hide_border=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Adi-Dcpp&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <sub>Built with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> • auto-refresh via GitHub Actions</sub>
+</div>

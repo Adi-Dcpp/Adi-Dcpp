@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="81.55178268251274 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1022</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="81.63157894736841 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1023</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/4123</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="88.21236059479554 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">577</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="88.36524163568774 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">578</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2152</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -63,9 +63,9 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x555</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x556</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x219</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x183</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x184</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x182</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x155</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x143</span></div>
@@ -87,7 +87,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Check if All A's Appears Before All B's</div>
+                            <div class="title">Product of the Last K Numbers</div>
                             <div class="date">23 Nov 2026</div>
                         </div>
                     </div>
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Find Subtree Sizes After Changes</div>
-                            <div class="date">22 Nov 2026</div>
+                            <div class="title">Check if All A's Appears Before All B's</div>
+                            <div class="date">23 Nov 2026</div>
                         </div>
                     </div>
                 </section>
